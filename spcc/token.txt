@@ -1,0 +1,5 @@
+a = 20
+b = c + a / 2
+c = 5
+int a = b + c ;
+print ( " Numbers are : " , b , c ) ;
